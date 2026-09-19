@@ -9,8 +9,8 @@
 <!-- i didnt sleep at all for this-->
 
 
-# About me 
-work in progress...
+<!--# About me 
+work in progress...-->
 
 ### Languages 
 ![Java](https://img.shields.io/badge/java-%23B399E8.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
