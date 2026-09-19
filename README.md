@@ -4,7 +4,7 @@
 <img height= 196cm src= "https://github-readme-stats.shion.dev/api/top-langs/?username=RomaSof&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 <br/>
 
-![snake animation](https://raw.githubusercontent.com/RomaSof/RomaSof/main/github-contribution-grid-snake.svg)
+<!--![snake animation](https://raw.githubusercontent.com/RomaSof/RomaSof/main/github-contribution-grid-snake.svg)>
 
 <!-- ## . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁ .Hi there!. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁ .-->
 
