@@ -1,8 +1,8 @@
 ## . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁ .Hi there!. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁ .-
 
 <div>
-<img height= 180cm src= "https://github-readme-stats.shion.dev/api?username=RomaSof&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true">
-<img height= 180cm src= "https://github-readme-stats.shion.dev/api/top-langs/?username=RomaSof&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">  
+<img height= 180cm widht= 200 src= "https://github-readme-stats.shion.dev/api?username=RomaSof&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true">
+<img height= 180cm widht= 200 src= "https://github-readme-stats.shion.dev/api/top-langs/?username=RomaSof&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">  
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/RomaSof/RomaSof/output/github-contribution-grid-snake.svg)
